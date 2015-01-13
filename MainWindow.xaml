@@ -1,0 +1,12 @@
+﻿<Window x:Class="KinectCameraBasic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="660" Width="1628" Loaded="WindowLoaded" Closing="WindowClosing">
+    <Grid>
+        <Image Height="480" HorizontalAlignment="Left" Margin="40,102,0,0" Name="disp" Stretch="Fill" VerticalAlignment="Top" Width="640" />
+        <TextBox Height="26" HorizontalAlignment="Left" Margin="689,59,0,0" Name="status" VerticalAlignment="Top" Width="209" IsReadOnly="True" />
+        <Label Content="Kinect Status" Height="28" HorizontalAlignment="Left" Margin="715,20,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Kinect Display" Height="61" HorizontalAlignment="Left" Margin="68,35,0,0" Name="label2" VerticalAlignment="Top" Width="570" FontSize="40" FontFamily="Garamond" />
+        <Image Height="480" HorizontalAlignment="Left" Margin="917,102,0,0" Name="dispDepth" Stretch="Fill" VerticalAlignment="Top" Width="640" />
+    </Grid>
+</Window>

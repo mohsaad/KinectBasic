@@ -1,0 +1,11 @@
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\MainWindow.baml
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\MainWindow.g.cs
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\App.g.cs
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\KinectCameraBasic_MarkupCompile.cache
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\KinectCameraBasic.g.resources
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\KinectCameraBasic.Properties.Resources.resources
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\KinectCameraBasic.csproj.GenerateResource.Cache
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\bin\Debug\KinectCameraBasic.exe
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\bin\Debug\KinectCameraBasic.pdb
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\KinectCameraBasic.exe
+c:\users\saad\documents\visual studio 2010\Projects\KinectCameraBasic\KinectCameraBasic\obj\x86\Debug\KinectCameraBasic.pdb
